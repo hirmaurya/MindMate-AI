@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2026-03-07T01:19:38.578656",
+    "score": -0.25,
+    "emotion": "Stress",
+    "note": "i'm not feeling good today"
+  },
+  {
+    "timestamp": "2026-03-07T02:18:51.697345",
+    "score": 0.0,
+    "emotion": "Stress",
+    "note": "I can't focus at all today"
+  }
+]
